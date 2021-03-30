@@ -15,7 +15,7 @@
 * FAQs <br>
 
 ## 👇 Download Files
-* go to our GitHub repository: https://github.com/dudenayak/CareForYou
+* Go to our GitHub repository: https://github.com/dudenayak/CareForYou
 * Download Zip or clone repo
 
 * Then open the folder in your IDE 
