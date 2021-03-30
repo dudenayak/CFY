@@ -5,17 +5,17 @@
 
 ## Features
 
-* login/signup <br>
+* Login/SignUp <br>
 * Appointment Booking <br>
-* Chatbot <br>
-* Contact us <br>
+* Chat Bot <br>
+* Contact Us <br>
 * Location of nearest hospital. <br>
 * Availability of bed <br>
 * Live Statistics <br>
 * FAQs <br>
 
 ## 👇 Download Files
-* go to our GitHub repository: https://github.com/anushkajain6459/CareForYou
+* go to our GitHub repository: https://github.com/dudenayak/CareForYou
 * Download Zip or clone repo
 
 * Then open the folder in your IDE 
